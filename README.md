@@ -7,3 +7,5 @@ I have completed an implementation of a version of this game where a player can 
 
 To develop this project, I used Java 17 on IntelliJ IDEA.
 <img width="1431" alt="image" src="https://user-images.githubusercontent.com/95428540/194562835-b73e52f4-0a6d-42f5-8cb1-cb7e645ae529.png">
+<img width="1433" alt="image" src="https://user-images.githubusercontent.com/95428540/194564812-05cb768b-d2b1-4c0d-a871-0a804688b9cf.png">
+
